@@ -1,4 +1,4 @@
-# osakaOS v1.0
+# osakaOS v2.0 -BETA (a fork from osakaOS v1.0)
 ![](cube.gif)
 
 <h2>THE operating system of all time.</h2>
@@ -89,3 +89,6 @@ No, I just thought it would be funny.
 <br>"ex (file)"                        - executes files as a script.</br>
 
 
+<br>Developer note (code-dev): this fork will add a lot of thing about FileSystem, sound, ...</br>
+<br>The secound version credited by Code-dev</br>
+<br>Origanal by: pac-ac</br>
